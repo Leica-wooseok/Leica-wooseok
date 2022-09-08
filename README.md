@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leica-wooseok&layout=compact)](https://github.com/Leica-wooseok/github-readme-stats)
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Thanks!&section=footer&FontColor=ffffff)
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leica-wooseok)](https://git.io/streak-stats)
   
+  
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Thanks!&section=footer&FontColor=ffffff)  
   
 </div>
 
