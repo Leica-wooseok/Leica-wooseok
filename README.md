@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-123
-</div>
+
+  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hellow%20Leica%20world&fontSize=90&animation=fadeIn)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leica-wooseok&show_icons=true&theme=radical)
   <div style="display:flex;gap:8px">
@@ -28,4 +28,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=TypeScript&logoColor=#3178C6"/>
     <img src="https://img.shields.io/badge/React-555555?style=flat-square&logo=React&logoColor=#61DAFB"/>
   </div>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leica-wooseok)](https://github.com/leica-wooseok/github-readme-stats)
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+  
+  
+</div>
 
