@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-555555?style=flat-square&logo=React&logoColor=#61DAFB"/>
   </div>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leica-wooseok)](https://github.com/leica-wooseok/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leica)](https://github.com/Leica-wooseok/github-readme-stats)
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Thanks!&section=footer&FontColor=ffffff)
 
