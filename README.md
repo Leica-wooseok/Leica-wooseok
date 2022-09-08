@@ -1,3 +1,4 @@
+<div style="text-align:center">
 
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hellow%20Leica%20world&fontSize=90)
@@ -26,3 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-555555?style=flat-square&logo=React&logoColor=#61DAFB"/>
 </div>
 
+</div>
