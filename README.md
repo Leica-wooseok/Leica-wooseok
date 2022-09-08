@@ -1,7 +1,9 @@
-<div style="text-align:center">
 
 ### Hi there 👋
+<div style="display:flex;flex-direction:column;justify-content:center;text-align:center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hellow%20Leica%20world&fontSize=90)
+</div>
+
 <!--
 **Leica-wooseok/Leica-wooseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=TypeScript&logoColor=#3178C6"/>
 <img src="https://img.shields.io/badge/React-555555?style=flat-square&logo=React&logoColor=#61DAFB"/>
-</div>
-
 </div>
