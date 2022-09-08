@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leica-wooseok)](https://git.io/streak-stats)
   
-  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leica-wooseok&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Thanks!&section=footer&FontColor=ffffff)  
   
