@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hellow%20Leica%20world&fontSize=90&animation=fadeIn)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leica-wooseok&show_icons=true&theme=radical)
+  
+  
   <div style="display:flex;gap:8px">
     <img src="https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
     <img src="https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
@@ -30,8 +31,11 @@ Here are some ideas to get you started:
   </div>
   
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leica-wooseok&layout=compact)](https://github.com/Leica-wooseok/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leica-wooseok&layout=compact&theme=dark)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leica-wooseok&show_icons=true&theme=dark)
+  
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leica-wooseok)](https://git.io/streak-stats)
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leica-wooseok&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
