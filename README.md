@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <div align="center">
 
   
@@ -43,4 +45,4 @@ Here are some ideas to get you started:
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Thanks!&section=footer&FontColor=ffffff)  
   
 </div>
-
+-->
